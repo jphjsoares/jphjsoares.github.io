@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-#whoami?!
+# whoami?!
 
 Since I was a little kid, I've loved computers. I used to beg my mom to let me play on her computer at a very early age. At 11 years of age, I wanted to know how computers were made and how they work. So I typed "how do computers work" on Google and that's where my journey began. I started learning how to code in Python, then C++, then Java, and I was completely addicted. Everything was so logical, and when it worked, damn... It was so cool! Then another topic caught my interest: InfoSec. 
 
