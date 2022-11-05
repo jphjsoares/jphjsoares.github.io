@@ -1,8 +1,8 @@
 title: unkn0wnUlv-blog
 description: "This blog contains CTF writeups, personal research and other fun stuff!"
 author:
-  name: "unkn0wnUlv"
-  url: "https://github.com/unkn0wnUlv"
+  name: "jphjsoares"
+  url: "https://github.com/jphjsoares"
 
 baseurl: /
 
@@ -27,5 +27,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "unkn0wnUlv"
+owner : "jphjsoares"
 year : "2022"
